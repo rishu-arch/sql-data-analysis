@@ -77,7 +77,6 @@ From PopvsVac
 
 
 
--- Using Temp Table to perform Calculation on Partition By in previous query
 
 DROP Table if exists #PercentPopulationVaccinated
 Create Table #PercentPopulationVaccinated
